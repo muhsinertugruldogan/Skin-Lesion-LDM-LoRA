@@ -1,0 +1,17 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+peft
+safetensors
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+scikit-image
+opencv-python
+pillow
+tqdm
+medmnist
